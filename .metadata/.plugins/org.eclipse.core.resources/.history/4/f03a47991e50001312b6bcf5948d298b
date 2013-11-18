@@ -1,0 +1,18 @@
+package nearu;
+
+import javax.swing.JPanel;
+
+public class PolygonPanel extends JPanel{
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	protected void paintComponent(Graphics g){
+		
+	}
+
+}

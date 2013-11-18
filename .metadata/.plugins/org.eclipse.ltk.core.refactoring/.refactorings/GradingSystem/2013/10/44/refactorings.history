@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;nearu.StudentInfo.java&apos; to &apos;Student.java&apos;&#x0D;&#x0A;- Original project: &apos;GradingSystem&apos;&#x0D;&#x0A;- Original element: &apos;nearu.StudentInfo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;nearu.Student.java&apos;" description="Rename compilation unit &apos;StudentInfo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;nearu{StudentInfo.java" name="Student.java" references="false" stamp="1382855928182" version="1.0"/>
+</session>
